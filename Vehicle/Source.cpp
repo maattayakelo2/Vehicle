@@ -96,6 +96,7 @@ void automobile::show() {
 	cout << endl;
 }
 
+
 int main() {
 	
 	truck t1, t2;
